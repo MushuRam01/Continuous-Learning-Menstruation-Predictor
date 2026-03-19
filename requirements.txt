@@ -1,0 +1,8 @@
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
+
+torch>=2.0
+
+# Notebook support (VS Code / Jupyter)
+ipykernel>=6.0
